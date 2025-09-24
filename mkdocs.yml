@@ -1,6 +1,6 @@
 site_name: template-mkdocs
-repo_url: https://github.com/Sydney-Informatics-Hub/<REPO_NAME>
-repo_name: Sydney-Informatics-Hub/<REPO_NAME>
+repo_url: https://github.com/Sydney-Informatics-Hub/template-mkdocs
+repo_name: Sydney-Informatics-Hub/template-mkdocs
 
 nav:
   # Landing page
