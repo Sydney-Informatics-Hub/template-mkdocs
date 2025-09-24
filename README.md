@@ -2,7 +2,13 @@
 
 ## Setup
 
-- Clone repository
+- Create new repository using this as a template
+
+- In the cloned repository: Settings -> Pages -> Build and deployment:
+
+    - Source: Deploy from a branch
+    - Branch: `gh-pages`
+    - Folder: `/ (root)`
 
 - Set up `mkdocs` locally
 
@@ -25,6 +31,7 @@ mamba activate mkdocs
 │       └── mkdocs_deploy.yml
 ├── mkdocs.yml # config for extensions, contents/navbar, etc.
 └── README.md
+```
 
 ## Usage
 
